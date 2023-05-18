@@ -1,7 +1,10 @@
 # RESTAPI_Using_Flask_Python Integration with AWS S3
 
-#Command for venv (virtual environment)
+# Pre-requisite: Python installation 
+On Mac Os: rum "python3" command on terminal to see the version
+> python3
 
+#Command for venv (virtual environment)
 mkdir flask-s3-boto3
 cd flask-s3-boto3/
 pip3 install virtualenv
